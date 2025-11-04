@@ -2,7 +2,8 @@
   
 <br> ${\textsf{\color{#F1F8E9}  hiya! c+h ok! }}$
 
-<img width="400" height="517" alt="aww" src="https://github.com/user-attachments/assets/6b18d2b2-1071-4da4-a76c-fb5c048e1f6a" />
+<img width="500" height="429" alt="Untitled37_20251104195406" src="https://github.com/user-attachments/assets/ba3c826f-0edf-4448-a598-4a4ed418cc30" />
+
 
 
 
